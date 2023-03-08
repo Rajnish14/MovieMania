@@ -1,0 +1,34 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Dart",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib/Screens/HomeScreen/main.dart"
+        },
+        {
+            "name": "movie_mania",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/Screens/HomeScreen/main.dart"
+        },
+        {
+            "name": "movie_mania (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile",
+            "program": "lib/Screens/HomeScreen/main.dart"
+        },
+        {
+            "name": "movie_mania (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release",
+            "program": "lib/Screens/HomeScreen/main.dart"
+        }
+    ]
+}
